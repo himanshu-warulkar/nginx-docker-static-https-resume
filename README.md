@@ -1,4 +1,4 @@
-# nginx-docker-static-https-resume
+# Nginx-Docker-Static-HTTPS-Resume
 A Static Website with Docker, Docker Compose, and Nginx HTTPS
 
 #  Dockerized Static Website with Nginx Reverse Proxy & HTTPS
